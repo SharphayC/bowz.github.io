@@ -1,0 +1,41 @@
+body{
+	letter-spacing: 2px;
+	background-color: black;
+	font-family: 'Mina', sans-serif;
+	width: 960px;
+	margin: auto;
+}
+#divprincipal{
+	color: red;
+}
+#bowzh1{
+	padding-bottom: -1px;
+}
+#divheader{
+	background-color: #121212;
+}
+#divaside{
+	float: right;
+}
+#videos{
+	font-size: 40px;
+}
+#p{
+	width: 670px;
+}
+.h3{
+	font-size: 20px;
+}
+.link{
+	color: red;
+	text-decoration: none;
+}
+.lista{
+	list-style-type: none;
+	list-style-position: inside;
+}
+.obj{
+	display: inline-block;
+	padding-right: 50px;
+}
+
